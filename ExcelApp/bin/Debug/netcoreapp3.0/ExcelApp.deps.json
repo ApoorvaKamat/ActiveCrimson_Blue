@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ExcelApp/1.0.0": {
+        "dependencies": {
+          "ExcelDataReaderLib": "1.0.0"
+        },
+        "runtime": {
+          "ExcelApp.dll": {}
+        }
+      },
+      "ExcelDataReaderLib/1.0.0": {
+        "runtime": {
+          "ExcelDataReaderLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcelApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelDataReaderLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
